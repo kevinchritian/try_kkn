@@ -1,0 +1,51 @@
+.st-emotion-cache-giotri, .e1nzilvr2 {
+    display: none;
+}
+
+
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+
+.banner {
+    height: 60vh;
+}
+
+.banner-content {
+    display: flex; /* Mengaktifkan Flexbox */
+    justify-content: center; /* Teks di tengah secara horizontal */
+    align-items: center; /* Teks di tengah secara vertikal */
+    height: 100%; /* Pastikan tinggi elemen mencakup container */
+    min-height: 300px; /* Atur minimal tinggi agar terlihat jelas */
+}
+
+.sampah-organik {
+    text-align: center; /* Teks rata tengah */
+}
+
+.sampah-organik h1{
+    color: #17A2B8;
+    font-size: 50px;
+}
+
+.p-organik{
+    text-align: justify;
+}
+
+.pengetian-sampah{
+    text-align: justify;
+}
+
+.dampak{
+    text-align: justify;
+}
+
+.image-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-wrapper img{
+    width: 300px;
+    border-radius: 10px;
+}
